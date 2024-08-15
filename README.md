@@ -1,0 +1,1 @@
+The primary objective of this project is to develop an advanced predictive model capable of accurately classifying emphysema patterns in CT images , with the ultimate goal of facilitating early detection and differentiation of emphysema severity.
